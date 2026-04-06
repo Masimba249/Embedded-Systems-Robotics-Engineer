@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Collins Masimba
 
-**Embedded Systems & Robotics Engineer** | BSc Student @ Kazakh-British Technical University (KBTU)
+**Embedded Systems & Robotics Engineer** | 
+
+Automation and Control Engineering
+Kazakh-British Technical University (KBTU)
 
 ## 🔧 What I Do
 - **Embedded Systems** — Siemens PLCs, Raspberry Pi, Arduino, real-time sensor systems
