@@ -92,6 +92,6 @@ Kazakh-British Technical University (KBTU)
 
 ## 📫 Contact
 
-- ✉️ **Email:** cmasimba@kbtu.kz
+- ✉️ **Email:** Masimba249@gmail.com
 - 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-linkedin-url)
 - 🐙 **GitHub:** [Masimba249](https://github.com/Masimba249)
