@@ -18,7 +18,7 @@ Kazakh-British Technical University (KBTU)
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| [Multirobot Adaptive Control with RL](https://github.com/Masimba249/Multirobot-Adaptive-Control-with-Reinforcement-Learning) | MATLAB, Reinforcement Learning, WiFi/HTTP, RoArm-M2-S | Multi-robot adaptive control using reinforcement learning with RoArm-M2-S robotic arms via WiFi/HTTP-based MATLAB integration |
+| [Multirobot Adaptive Control with RL](https://github.com/Masimba249/Multirobot-Adaptive-Control-with-Reinforcement-Learning) | MATLAB, Reinforcement Learning, WiFi/HTTP, RoArm-M2-S, KUKA and Siemens TIA Portal | Multi-robot adaptive control using reinforcement learning with RoArm-M2-S robotic arms via WiFi/HTTP-based MATLAB integration |
 | [SLAM Navigation in ROS2](https://github.com/Masimba249/SLAM-Navigation-in-ROS2-navigation) | ROS2 Humble, SLAM Toolbox, Nav2 MPPI, Gazebo, RViz2 | Autonomous Mobile Robot with SLAM Toolbox, Nav2 MPPI Controller, and Gazebo simulation — 97% nav success rate |
 | [Hybrid EKF-DQN Quadcopter](https://github.com/Masimba249/Hybrid-EKF-DQN-Model-for-Real-time-Stabilization) | MATLAB, Reinforcement Learning, Kalman Filters | IEEE conference paper — real-time quadcopter stabilization using hybrid EKF-DQN model |
 | [ROS Turtle Robot](https://github.com/Masimba249/ROS-with-Python-Turtle-Robot-) | ROS, Python, CMake | Publisher/Subscriber node architecture for robot control |
