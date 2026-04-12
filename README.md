@@ -2,7 +2,7 @@
 <h3 align="center">🤖 Embedded AI Engineer | TinyML · STM32 · ROS2 · Siemens PLC · MATLAB</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/collinsmasimba/"><img src="https://img.shields.io/badge/LinkedIn-CollMasimba-0077B5?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/collinsmasimba/"><img src="https://img.shields.io/badge/LinkedIn-CollinsMasimba-0077B5?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:Masimba249@gmail.com"><img src="https://img.shields.io/badge/Email-Masimba249@gmail.com-D14836?style=flat-square&logo=gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=Masimba249&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 </p>
