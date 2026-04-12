@@ -20,6 +20,8 @@
 - **Robotics** — ROS2, SLAM, Nav2 MPPI, autonomous navigation, multi-robot coordination
 - **Control Systems** — EKF, DQN-based RL, PID, Fuzzy Logic (IEEE published)
 - **Signal & Fault Detection** — CNN-based fault diagnosis on 3-phase power systems in MATLAB
+- **Hardware Design** — Altium schematics, PCB layout, 2D/3D mechanical enclosures for medical-grade devices
+- **Real-Time Systems** — Microcontroller programming, adjustable pulse generation, keypad-driven control, graphical displays
 
 ---
 
@@ -28,10 +30,13 @@
 | Project | Tags | Impact |
 |---|---|---|
 | [🔋 AI Predictive Sensor Node](https://github.com/Masimba249/AI-Powered-Predictive-Sensor-Node) | `STM32` `TinyML` `FreeRTOS` `MQTT` | Edge AI on microcontroller — anomaly detection without cloud |
-| [🌡️ Fuzzy-PID Climate Controller](https://github.com/Masimba249/Fuzzy-PID-in-Temperature-Control-in-MatLAB-and-TIA-Portal) | `Siemens PLC` `TIA Portal` `MATLAB` | Industrial HVAC automation with AI controller |
+| [🌡️ Fuzzy-PID Climate Controller](https://github.com/Masimba249/Fuzzy-PID-in-Temperature-Control-in-MatLAB-and-TIA-Portal) | `Siemens PLC` `TIA Portal` `MATLAB` | Industrial HVAC automation with Fuzzy-PID |
 | [🚁 Hybrid EKF-DQN Quadcopter](https://github.com/Masimba249/Hybrid-EKF-DQN-Model-for-Real-time-Stabilization) | `RL` `Kalman Filter` `MATLAB` | **IEEE Published** — Real-time UAV stabilization |
 | [🤖 SLAM Navigation ROS2](https://github.com/Masimba249/SLAM-Navigation-in-ROS2-navigation) | `ROS2` `Nav2` `Gazebo` `SLAM` | Full autonomous mobile robot stack |
 | [⚡ AI Fault Detection](https://github.com/Masimba249/Implementation-of-AI-in-Fault-Detection) | `CNN` `MATLAB` `Power Systems` | AI-based fault diagnosis on 3-phase transmission |
+| [🤝 Multi-Robot Adaptive Control](https://github.com/Masimba249/Multirobot-Adaptive-Control-with-Reinforcement-Learning) | `MATLAB` `Reinforcement Learning` `Multi-Robot` | Adaptive RL control for multi-robot coordination |
+| [🏥 AI-Enabled NICU Monitor](https://github.com/Masimba249/AI-Enabled-NICU-Monitor-Design) | `Altium` `PCB` `Medical Devices` `AI` | Heart rate, SpO₂ & temperature monitor — medical-grade hardware design |
+| [⏱️ Complementary Pulse Generator](https://github.com/Masimba249/Complementary-Pulse-Generator-Timer-System) | `Microcontroller` `Real-Time` `Keypad` `Display` | Radio-based real-time pulse control system |
 
 ---
 
@@ -44,17 +49,28 @@
 
 ## 🛠️ Tech Stack
 
+### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-8B0000?style=flat-square)
+
+### Embedded & Hardware
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-006837?style=flat-square)
-![TFLite Micro](https://img.shields.io/badge/-TFLite_Micro-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Siemens TIA Portal](https://img.shields.io/badge/-TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-8B0000?style=flat-square)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+
+### AI / ML
+![TFLite Micro](https://img.shields.io/badge/-TFLite_Micro-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Edge Impulse](https://img.shields.io/badge/-Edge%20Impulse-00C8C8?style=flat-square)
+
+### Robotics & Automation
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Siemens TIA Portal](https://img.shields.io/badge/-TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white)
+
+### OS & Tools
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
